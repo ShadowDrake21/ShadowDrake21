@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Dmytro Krapyvianskiy and I'm a front-end software developer (Angular), from Ukraine.</h2>
+<h2 align="left">Hello 👋! My name is Dmytro Krapyvianskyi and I'm a front-end software developer (Angular), from Ukraine.</h2>
 
 ###
 
